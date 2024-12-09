@@ -31,7 +31,7 @@ def get_description(scrapy, site, url):
     published = published_time['datetime']
 
 
-    email = 'bashe.team@onionmail.org'
+    email = 'AlexanderPushkin@exploit.im'
 
     download = []
     mark_tags = soup.find_all('mark', style="background-color:rgba(0, 0, 0, 0)", class_="has-inline-color has-vivid-red-color")
